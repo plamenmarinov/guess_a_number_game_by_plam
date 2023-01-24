@@ -13,7 +13,7 @@ while True:
     player_input = int(player_input)
 
     if player_input == computer_number:
-        print(Fore.BLUE + "You guess the number!")
+        print(Fore.CYAN + "You guess the number!")
         break
     elif player_input > computer_number:
         print("too High!")
