@@ -3,7 +3,7 @@
 # Guess_a_Number_Game_by_Plam
  A guessing number game
 
-# Official rules of the game "Guess a Number"
+# Official rules of game "Guess a Number"
 The game is two-person game called "Guess a Number".
 The first player thinks of an integer within a range between 1 and 100.
 The second player tries to guess the number.
